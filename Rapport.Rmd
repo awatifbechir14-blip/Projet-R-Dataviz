@@ -1,0 +1,14 @@
+---
+title: "Pojet R & Dataviz"
+output: pdf_document
+date: "2026-01-03"
+Author : Nabiha et Awatif
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
